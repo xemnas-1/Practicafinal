@@ -1,0 +1,15 @@
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\bin\Debug\Practica AlgoritmoHashing.exe.config
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\bin\Debug\Practica AlgoritmoHashing.exe
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\bin\Debug\Practica AlgoritmoHashing.pdb
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\obj\Debug\Practica_AlgoritmoHashing.FrmInicio.resources
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\obj\Debug\Practica_AlgoritmoHashing.Properties.Resources.resources
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\obj\Debug\Practica AlgoritmoHashing.csproj.GenerateResource.cache
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\obj\Debug\Practica AlgoritmoHashing.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\obj\Debug\Practica AlgoritmoHashing.exe
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\obj\Debug\Practica AlgoritmoHashing.pdb
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\bin\Debug\CircularProgressBar.dll
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\bin\Debug\WinFormAnimation.dll
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\obj\Debug\Practica AlgoritmoHashing.csproj.CopyComplete
+C:\Users\enriq\source\repos\Practica AlgoritmoHashing\obj\Debug\Practica AlgoritmoHashing.csprojAssemblyReference.cache

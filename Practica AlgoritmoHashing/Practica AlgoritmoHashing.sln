@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica AlgoritmoHashing", "Practica AlgoritmoHashing.csproj", "{2920B792-014B-4267-8008-4CDBF35596BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2920B792-014B-4267-8008-4CDBF35596BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2920B792-014B-4267-8008-4CDBF35596BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2920B792-014B-4267-8008-4CDBF35596BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2920B792-014B-4267-8008-4CDBF35596BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABE487C4-7F3E-4E2E-A9D8-2F2180FD3214}
+	EndGlobalSection
+EndGlobal
